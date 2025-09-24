@@ -1,0 +1,17 @@
+# Ignore build products and Xcode files
+build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcassets
+*.DS_Store
+*.swiftsourceinfo
+*.swiftdoc
+*.swiftdia
+*.swiftrun
+*.swiftmodule
+*.swiftautolink
+*.swiftdeps
+*.swiftsourceinfo
+*.playground
